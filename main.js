@@ -543,7 +543,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `[ ⏳ ] Uptime: ${uptime}Natsu's bot is now on Heroku`;
+  const bio = `[ ⏳ ] Uptime: ${uptime}The developer of this bot is dead 😔💔`;
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {
