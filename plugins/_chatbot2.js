@@ -53,7 +53,7 @@ let handler = m => m
   
  }  
   
- if (/^احبك ناتسو$/i.test(m.text) ) { //sem prefixo 
+ if (/^احبك يوريتشي$/i.test(m.text) ) { //sem prefixo 
      conn.reply(m.chat, ` انا اكتر ✨🥹💜 `, m) //wm, null, [['Menu', '#menu']], m) botones :V 
   
  } 
