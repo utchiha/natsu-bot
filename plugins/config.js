@@ -8,21 +8,21 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['201554824764', '𝑁𝐴𝑇𝑺𝑈', true],
-  ['201554824764', '🔥 𝑁𝐴𝑇𝑺𝑈 🧿', true],
+  ['201008592761', '🔥𝐘𝐎𝐑𝐈𝐂𝐇𝐈🔥', true],
+  ['201008592761', '🔥𝐘𝐎𝐑𝐈𝐂𝐇𝐈🔥 ', true],
 ];
 
-global.veeeee = 'محمود +201554824764';
-global.xaxa = '𝑁𝐴𝑇𝑺𝑈'
-global.suittag = ['201554824764'];
-global.prems = ['201554824764'];
+global.veeeee = 'محمد +201008592761';
+global.xaxa = '𝑌𝑂𝑅𝐼𝐶𝐻𝐼'
+global.suittag = ['201008592761'];
+global.prems = ['201008592761'];
 
-global.packname = '𝑁𝐴𝑇𝑺𝑈 ';
-global.author = '𝑁𝐴𝑇𝑺𝑈 𝐵𝛩𝑇★';
-global.wm = '𝑁𝐴𝑇𝑺𝑈 𝐵𝛩𝑇★';
-global.titulowm = '🤖 𝑁𝐴𝑇𝑺𝑈 𝐵𝛩𝑇 🤖';
-global.titulowm2 = `乂 𝑁𝐴𝑇𝑺𝑈 𝐵𝛩𝑇 乂`
-global.igfg = '𝑁𝐴𝑇𝑺𝑈 𝐵𝛩𝑇★';
+global.packname = '𝒀𝑶𝑹𝑰𝑪𝑯𝑰 ';
+global.author = '𝒀𝑶𝑹𝑰𝑪𝑯𝑰 𝑩𝑶𝑻★';
+global.wm = '𝒀𝑶𝑹𝑰𝑪𝑯𝑰 𝑩𝑶𝑻★';
+global.titulowm = '🤖 𝒀𝑶𝑹𝑰𝑪𝑯𝑰 𝑩𝑶𝑻 🤖';
+global.titulowm2 = `乂 𝒀𝑶𝑹𝑰𝑪𝑯𝑰 𝑩𝑶𝑻 乂`
+global.igfg = '𝒀𝑶𝑹𝑰𝑪𝑯𝑰 𝑩𝑶𝑻★';
 global.wait = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -42,9 +42,9 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝑁𝐴𝑇𝑺𝑈 - 𝙱𝚘𝚝`;
-global.gt = '𝑁𝐴𝑇𝑺𝑈 𝐵𝛩𝑇★';
-global.mysticbot = '𝑁𝐴𝑇𝑺𝑈 𝐵𝛩𝑇★';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝚈𝙾𝚁𝙸𝙲𝙷𝙸 - 𝙱𝚘𝚝`;
+global.gt = 'ᎽᎾᏒᎨᏨᎻᎨ ᏰᎾᎿ★';
+global.mysticbot = '𝕐𝕆ℝ𝕀ℂℍ𝕀 𝔹𝕆𝕋★';
 global.md = 'https://chat.whatsapp.com/KoFS4bZiHXe6gr1p0ONNcJ';
 global.mysticbot = 'https://chat.whatsapp.com/KoFS4bZiHXe6gr1p0ONNcJ';
 global.waitt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
