@@ -22,7 +22,7 @@ const handler = async (m, { conn, command, usedPrefix }) => {
         *🜋↫╎الـجـائزة💰↞ ${poin} نقاط┇*
         ∞┇━━━ •🐉• ━━━┇∞
         *✠ ~تــ✍︎ــوقــيــع ↯:~*
-        『𝑁𝐴𝑇𝑆𝑈-𝐵𝑂𝑇』
+        『𝐘𝐎𝐑𝐈𝐂𝐇𝐈 𝐁𝐎𝐓』
         `.trim();
         conn.tebakbendera[id] = [
             await conn.sendFile(m.chat, json.img, '', caption, m),
