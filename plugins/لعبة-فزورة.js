@@ -1,5 +1,5 @@
 let handler  = async (m, { conn }) => {
-conn.reply(m.chat,`*┌●━──━𓊆فزورة𓊇━──━●*\n*『${pickRandom(global.wisuiska)}』*\n*└●━──𓊆⍣⃝𝑁𝐴𝑇𝑺𝑈𓊇──━●*`, m)
+conn.reply(m.chat,`*┌●━──━𓊆فزورة𓊇━──━●*\n*『${pickRandom(global.wisuiska)}』*\n*└●━──𓊆⍣⃝𝐘𝐎𝐑𝐈𝐂𝐇𝐈 𝐁𝐎𝐓──━●*`, m)
 }
 handler.help = ['jwhsjs']
 handler.tags = ['fun']
