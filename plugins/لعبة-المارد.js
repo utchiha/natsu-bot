@@ -62,7 +62,7 @@ const dir = [
     'https://telegra.ph/file/f82cefd2e123b17eeaaed.jpg',
     ];
     let handler = async (m, { conn }) => {
-      conn.sendFile(m.chat, dir[Math.floor(Math.random() * dir.length)], 'dado.webp', '*┌●━──━𓊆المارد𓊇━──━●*\n\n*فعالية المارد الأزرق 🔮*\n\n*الشرح📝 :* *تعطي ناتسو شخصيه من اي انمي\n\nيبيه باستخدام المارد الازرق واول عضو يطلع\n\nالشخصيه، يفوز*\n\n*━━▣━━◤🎩◢━━▣━━━*\n\n*المقدم/ـة :𓅃⍣⃝𝑁𝐴𝑇𝑺𝑈 𝐵𝛩𝑇✭*\n\n*موقع المارد : *└●━──𓊆⍣⃝𝑁𝐴𝑇𝑺𝑈𓊇──━●**', m)
+      conn.sendFile(m.chat, dir[Math.floor(Math.random() * dir.length)], 'dado.webp', '*┌●━──━𓊆المارد𓊇━──━●*\n\n*فعالية المارد الأزرق 🔮*\n\n*الشرح📝 :* *تعطي ناتسو شخصيه من اي انمي\n\nيبيه باستخدام المارد الازرق واول عضو يطلع\n\nالشخصيه، يفوز*\n\n*━━▣━━◤🎩◢━━▣━━━*\n\n*المقدم/ـة :𓅃⍣⃝𝐘𝐎𝐑𝐈𝐂𝐇𝐈 𝐁𝐎𝐓✭*\n\n*موقع المارد : *└●━──𓊆⍣⃝𝐘𝐎𝐑𝐈𝐂𝐇𝐈𓊇──━●**', m)
     }
     handler.help = ['dado']
     handler.tags = ['game']
